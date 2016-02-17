@@ -216,26 +216,26 @@ CSS предлагает множество различных сокращен�
 - Ставьте пробел после каждой запятой в объявлениях со множественным значением
 - Разделяйте правила пустой строкой.
 - Сортировка свойств: от общего -- к локальному и менее важному
-```css
-.crm-lead-form {
-	margin: 34px;
-	color: #000;
-}
+  ```css
+  .crm-lead-form {
+      margin: 34px;
+      color: #000;
+   }
 
-.crm-lead-title,
-.crm-invoice-title,
-.crm-company-title {
-    position: relative;
-    display: block;
-	width: 15px;
-	height: 15px;
-	margin: 12px 0 17px;
-	padding: 10px;
-	border: 1px solid red;
-	color: #fff;
-	background: #000;
-}
-```
+  .crm-lead-title,
+  .crm-invoice-title,
+  .crm-company-title {
+      position: relative;
+      display: block;
+      width: 15px;
+      height: 15px;
+      margin: 12px 0 17px;
+      padding: 10px;
+      border: 1px solid red;
+      color: #fff;
+      background: #000;
+  }
+  ```
 
 - Исключения
   - К большим группам правил, состоящих из одного свойства, может применяться запись в одну строку.
@@ -258,7 +258,7 @@ CSS предлагает множество различных сокращен�
         background-image:
             linear-gradient(#fff, #ccc),
             linear-gradient(#f3c, #4ec);
-        }
+    }
     ```
 
 
