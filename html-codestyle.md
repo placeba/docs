@@ -89,12 +89,10 @@ _Preferences_ -> _Editor_ -> _General_ -> _Appearence_ -> _Show Whitespaces_.
 - Внимательно относимся к элементам `inline-block`, перевод строки между ними будет отображен как пробел.
   Чтобы не писать теги в одну длинную строку, можно воспользоваться следующим приемом:
   ```html
-      <div class="inline-block-items">
-          <span class="inline-block-item">Inline Item 1</span>
-          <span class="inline-block-item">Inline Item 2</span>
-          <span class="inline-block-item">Inline Item 3</span>
-          <span class="inline-block-item">Inline Item 4</span>
-      </div>
+  <div class="task-detail-group">
+     <span class="task-detail-group-label">Группа:</span>
+     <span class="task-detail-group-name">Название группы</span>
+  </div>
   ```
   Визуально теги разбиты и отделены отступами, а в результирующем HTML-коде будет одна строка.
 
