@@ -86,7 +86,7 @@ _Preferences_ -> _Editor_ -> _General_ -> _Appearence_ -> _Show Whitespaces_.
   ```
 
 ### Особые случаи
-- Внимательно относимся к элементам `inline-block`, перевод строки между ними будет отображен как пробел.
+- Внимательно относимся к элементам inline-block, перевод строки между ними будет отображен как пробел.
   ```php
   <div class="inline-block-items"><?
       ?><span class="inline-block-item">Inline Item 1</span><?
