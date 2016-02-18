@@ -23,7 +23,8 @@
 
 ### Перевод строки
 Стандартом для разрыва строки является символ `\n`.
-Настройка PHPStorm: _Editor_ -> _Code Style_ -> _Line separator_ -> _Unix and OS X \n_.
+
+Настройка PHPStorm: _Editor_ -> _Code Style_ -> _Line separator (for new files)_ -> _Unix and OS X \n_.
 
 ### Регистр
 Названия тегов, атрибутов и названия классов должны быть всегда в нижнем регистре.
