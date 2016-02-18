@@ -85,12 +85,12 @@ _Preferences_ -> _Editor_ -> _General_ -> _Appearence_ -> _Show Whitespaces_.
   </div>
   ```
   ```html
-      <div class="inline-block-items">
-          <span class="inline-block-item">Inline Item 1</span>
-          <span class="inline-block-item">Inline Item 2</span>
-          <span class="inline-block-item">Inline Item 3</span>
-          <span class="inline-block-item">Inline Item 4</span>
-      </div>
+  <div class="inline-block-items">
+      <span class="inline-block-item">Inline Item 1</span>
+      <span class="inline-block-item">Inline Item 2</span>
+      <span class="inline-block-item">Inline Item 3</span>
+      <span class="inline-block-item">Inline Item 4</span>
+  </div>
   ```
 
 ### Особые случаи
