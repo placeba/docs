@@ -84,13 +84,13 @@ _Preferences_ -> _Editor_ -> _General_ -> _Appearence_ -> _Show Whitespaces_.
      <span class="task-detail-group-name">Название группы</span>
   </div>
   ```
-  ```html
-  <div class="inline-block-items">
-      <span class="inline-block-item">Inline Item 1</span>
-      <span class="inline-block-item">Inline Item 2</span>
-      <span class="inline-block-item">Inline Item 3</span>
-      <span class="inline-block-item">Inline Item 4</span>
-  </div>
+  ```php
+  <div class="inline-block-items"><?
+      ?><span class="inline-block-item">Inline Item 1</span><?
+      ?><span class="inline-block-item">Inline Item 2</span><?
+      ?><span class="inline-block-item">Inline Item 3</span><?
+      ?><span class="inline-block-item">Inline Item 4</span><?
+  ?></div>
   ```
 
 ### Особые случаи
