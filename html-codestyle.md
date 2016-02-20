@@ -191,27 +191,27 @@
 - Называйте файлы с указанием имени модуля и блока, к которому относится изображение.
   Для разделения слов испозуйте дефис (-).
 
-Плохо:
-```css
-.crm-lead-history {
-    background: url(images/sprite.svg);
-}
+  Плохо:
+  ```css
+  .crm-lead-history {
+      background: url(images/sprite.svg);
+  }
 
-.crm-lead-log {
-    background: url(images/arrow_left.svg);
-}
-```
+  .crm-lead-log {
+      background: url(images/arrow_left.svg);
+  }
+  ```
 
-Хорошо:
-```css
-.crm-lead-history {
-    background: url(images/crm-lead-sprite.svg);
-}
+  Хорошо:
+  ```css
+  .crm-lead-history {
+      background: url(images/crm-lead-sprite.svg);
+  }
 
-.crm-lead-log {
-    background: url(images/crm-lead-arrow-left.svg);
-}
-```
+  .crm-lead-log {
+      background: url(images/crm-lead-arrow-left.svg);
+  }
+  ```
 
 
 ## Правила форматирования HTML
